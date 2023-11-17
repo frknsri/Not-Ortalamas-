@@ -1,2 +1,2 @@
-# Not-Ortalamas-
+# Not-Ortalamaıs-
 Not Ortalaması Hesaplayan Program 
